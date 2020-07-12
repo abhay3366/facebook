@@ -5,5 +5,7 @@ name
 kjdjhjh
 ldkjfl
 
+pulse 
+idle
 
 thanku
